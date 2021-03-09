@@ -15,7 +15,7 @@ mini-workshop is open to any undergrad and postgrad students from any South Afri
 # Lecture 1: 
 Introduction to simple epidemiological models. 9 March 2021.
 # Lecture 2: 
-Mathematical Modelling of Covid-19 waves.. 16 March 2021.
+Mathematical Modelling of Covid-19 waves. 16 March 2021.
 # Lecture 3: 
 C++/Python applications I 23 March 2021.
 # Lecture 4: 

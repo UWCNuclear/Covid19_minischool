@@ -1,0 +1,214 @@
+,country,link
+0,USA,country/us/
+1,Brazil,country/brazil/
+2,India,country/india/
+3,Russia,country/russia/
+4,Peru,country/peru/
+5,South Africa,country/south-africa/
+6,Mexico,country/mexico/
+7,Chile,country/chile/
+8,Spain,country/spain/
+9,UK,country/uk/
+10,Iran,country/iran/
+11,Pakistan,country/pakistan/
+12,Italy,country/italy/
+13,Saudi Arabia,country/saudi-arabia/
+14,Turkey,country/turkey/
+15,Germany,country/germany/
+16,Bangladesh,country/bangladesh/
+17,France,country/france/
+18,Colombia,country/colombia/
+19,Argentina,country/argentina/
+20,Canada,country/canada/
+21,Qatar,country/qatar/
+22,Iraq,country/iraq/
+23,Egypt,country/egypt/
+24,Indonesia,country/indonesia/
+25,Sweden,country/sweden/
+26,Ecuador,country/ecuador/
+27,Kazakhstan,country/kazakhstan/
+28,Belarus,country/belarus/
+29,Oman,country/oman/
+30,Belgium,country/belgium/
+31,Philippines,country/philippines/
+32,Kuwait,country/kuwait/
+33,Ukraine,country/ukraine/
+34,UAE,country/united-arab-emirates/
+35,Bolivia,country/bolivia/
+36,Netherlands,country/netherlands/
+37,Panama,country/panama/
+38,Dominican Republic,country/dominican-republic/
+39,Portugal,country/portugal/
+40,Singapore,country/singapore/
+41,Israel,country/israel/
+42,Poland,country/poland/
+43,Afghanistan,country/afghanistan/
+44,Bahrain,country/bahrain/
+45,Romania,country/romania/
+46,Nigeria,country/nigeria/
+47,Armenia,country/armenia/
+48,Switzerland,country/switzerland/
+49,Guatemala,country/guatemala/
+50,Honduras,country/honduras/
+51,Azerbaijan,country/azerbaijan/
+52,Ghana,country/ghana/
+53,Ireland,country/ireland/
+54,Japan,country/japan/
+55,Algeria,country/algeria/
+56,Moldova,country/moldova/
+57,Serbia,country/serbia/
+58,Austria,country/austria/
+59,Nepal,country/nepal/
+60,Morocco,country/morocco/
+61,Cameroon,country/cameroon/
+62,Uzbekistan,country/uzbekistan/
+63,S. Korea,country/south-korea/
+64,Czechia,country/czech-republic/
+65,Ivory Coast,country/cote-d-ivoire/
+66,Denmark,country/denmark/
+67,Kyrgyzstan,country/kyrgyzstan/
+68,Kenya,country/kenya/
+69,Australia,country/australia/
+70,El Salvador,country/el-salvador/
+71,Venezuela,country/venezuela/
+72,Sudan,country/sudan/
+73,Costa Rica,country/costa-rica/
+74,Norway,country/norway/
+75,Malaysia,country/malaysia/
+76,North Macedonia,country/macedonia/
+77,Senegal,country/senegal/
+78,Ethiopia,country/ethiopia/
+79,DRC,country/democratic-republic-of-the-congo/
+80,Bulgaria,country/bulgaria/
+81,Palestine,country/state-of-palestine/
+82,Bosnia and Herzegovina,country/bosnia-and-herzegovina/
+83,Finland,country/finland/
+84,Haiti,country/haiti/
+85,Tajikistan,country/tajikistan/
+86,French Guiana,country/french-guiana/
+87,Guinea,country/guinea/
+88,Gabon,country/gabon/
+89,Madagascar,country/madagascar/
+90,Mauritania,country/mauritania/
+91,Luxembourg,country/luxembourg/
+92,Djibouti,country/djibouti/
+93,CAR,country/central-african-republic/
+94,Hungary,country/hungary/
+95,Croatia,country/croatia/
+96,Greece,country/greece/
+97,Albania,country/albania/
+98,Paraguay,country/paraguay/
+99,Thailand,country/thailand/
+100,Nicaragua,country/nicaragua/
+101,Somalia,country/somalia/
+102,Equatorial Guinea,country/equatorial-guinea/
+103,Maldives,country/maldives/
+104,Mayotte,country/mayotte/
+105,Malawi,country/malawi/
+106,Sri Lanka,country/sri-lanka/
+107,Lebanon,country/lebanon/
+108,Mali,country/mali/
+109,Cuba,country/cuba/
+110,Congo,country/congo/
+111,South Sudan,country/south-sudan/
+112,Estonia,country/estonia/
+113,Slovakia,country/slovakia/
+114,Montenegro,country/montenegro/
+115,Slovenia,country/slovenia/
+116,Iceland,country/iceland/
+117,Lithuania,country/lithuania/
+118,Guinea-Bissau,country/guinea-bissau/
+119,Zambia,country/zambia/
+120,Cabo Verde,country/cabo-verde/
+121,Hong Kong,country/china-hong-kong-sar/
+122,Sierra Leone,country/sierra-leone/
+123,Libya,country/libya/
+124,Yemen,country/yemen/
+125,Eswatini,country/swaziland/
+126,New Zealand,country/new-zealand/
+127,Rwanda,country/rwanda/
+128,Benin,country/benin/
+129,Mozambique,country/mozambique/
+130,Zimbabwe,country/zimbabwe/
+131,Tunisia,country/tunisia/
+132,Jordan,country/jordan/
+133,Latvia,country/latvia/
+134,Niger,country/niger/
+135,Liberia,country/liberia/
+136,Uganda,country/uganda/
+137,Burkina Faso,country/burkina-faso/
+138,Namibia,country/namibia/
+139,Cyprus,country/cyprus/
+140,Uruguay,country/uruguay/
+141,Georgia,country/georgia/
+142,Suriname,country/suriname/
+143,Chad,country/chad/
+144,Andorra,country/andorra/
+145,Jamaica,country/jamaica/
+146,Togo,country/togo/
+147,Sao Tome and Principe,country/sao-tome-and-principe/
+148,San Marino,country/san-marino/
+149,Malta,country/malta/
+150,Réunion,country/reunion/
+151,Angola,country/angola/
+152,Channel Islands,country/channel-islands/
+153,Botswana,country/botswana/
+154,Tanzania,country/tanzania/
+155,Syria,country/syria/
+156,Taiwan,country/taiwan/
+157,Vietnam,country/viet-nam/
+158,Mauritius,country/mauritius/
+159,Myanmar,country/myanmar/
+160,Isle of Man,country/isle-of-man/
+161,Comoros,country/comoros/
+162,Guyana,country/guyana/
+163,Burundi,country/burundi/
+164,Mongolia,country/mongolia/
+165,Lesotho,country/lesotho/
+166,Martinique,country/martinique/
+167,Eritrea,country/eritrea/
+168,Cayman Islands,country/cayman-islands/
+169,Guadeloupe,country/guadeloupe/
+170,Faeroe Islands,country/faeroe-islands/
+171,Gibraltar,country/gibraltar/
+172,Cambodia,country/cambodia/
+173,Bermuda,country/bermuda/
+174,Brunei ,country/brunei-darussalam/
+175,Trinidad and Tobago,country/trinidad-and-tobago/
+176,Bahamas,country/bahamas/
+177,Monaco,country/monaco/
+178,Aruba,country/aruba/
+179,Seychelles,country/seychelles/
+180,Barbados,country/barbados/
+181,Bhutan,country/bhutan/
+182,Liechtenstein,country/liechtenstein/
+183,Sint Maarten,country/sint-maarten/
+184,Gambia,country/gambia/
+185,Antigua and Barbuda,country/antigua-and-barbuda/
+186,Turks and Caicos,country/turks-and-caicos-islands/
+187,French Polynesia,country/french-polynesia/
+188,Macao,country/china-macao-sar/
+189,Saint Martin,country/saint-martin/
+190,Belize,country/belize/
+191,St. Vincent Grenadines,country/saint-vincent-and-the-grenadines/
+192,Curaçao,country/curacao/
+193,Fiji,country/fiji/
+194,Timor-Leste,country/timor-leste/
+195,Grenada,country/grenada/
+196,Saint Lucia,country/saint-lucia/
+197,New Caledonia,country/new-caledonia/
+198,Laos,country/laos/
+199,Dominica,country/dominica/
+200,Saint Kitts and Nevis,country/saint-kitts-and-nevis/
+201,Falkland Islands,country/falkland-islands-malvinas/
+202,Greenland,country/greenland/
+203,Montserrat,country/montserrat/
+204,Vatican City,country/holy-see/
+205,Papua New Guinea,country/papua-new-guinea/
+206,Western Sahara,country/western-sahara/
+207,Caribbean Netherlands,country/caribbean-netherlands/
+208,British Virgin Islands,country/british-virgin-islands/
+209,St. Barth,country/saint-barthelemy/
+210,Anguilla,country/anguilla/
+211,Saint Pierre Miquelon,country/saint-pierre-and-miquelon/
+212,China,country/china/

@@ -23,7 +23,7 @@ Plank MonteCarlo and Android App Awareness. 30 March 2021.
 
 Time: 14h00 -15h00
 
-Register in advance for this webinar:
+# Register in advance for this webinar:
 https://ukzn.zoom.us/webinar/register/WN_FtjNuHTDR0ysn-wpQjDNAw
 After registering, you will receive a confirmation email containing information about joining the webinar.
 

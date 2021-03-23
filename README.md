@@ -18,6 +18,7 @@ Introduction to simple epidemiological models. 9 March 2021.
 Mathematical Modelling of Covid-19 waves. 16 March 2021.
 # Lecture 3: 
 C++/Python applications I 23 March 2021.
+https://gitlab.in2p3.fr/dudouet/covid-player
 # Lecture 4: 
 Plank MonteCarlo and Android App Awareness. 30 March 2021.
 

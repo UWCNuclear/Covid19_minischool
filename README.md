@@ -12,13 +12,18 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7580557
 The overall program encompasses the fields of epidemiology, modeling, computation, mathematics, biology and physics. The different tools we have developed will be presented during the workshop. Some have already been implemented at the Universities of Pretoria, Western Cape, Nelson Mandela, Venda and Zululand. This
 mini-workshop is open to any undergrad and postgrad students from any South African and international universities and institutions who wish to join.
 
+Introductory NITheCS Colloquium @ https://www.youtube.com/watch?v=n_6k-LTdVAo&list=PLE9Qrf4CJnRGVQvTfalXgWjh7221O5Xc-&index=36
+
 # Lecture 1: 
 Introduction to simple epidemiological models. 9 March 2021.
+Video of the Lecture @ https://www.youtube.com/watch?v=qri5IfnX8gQ&t=2298s
 # Lecture 2: 
 Mathematical Modelling of Covid-19 waves. 16 March 2021.
+Video of the Lecture @ https://www.youtube.com/watch?v=h_sb5v7ZSrA&t=4368s
 # Lecture 3: 
 C++/Python applications I 23 March 2021.
 https://gitlab.in2p3.fr/dudouet/covid-player
+Video of the Lecture @ https://www.youtube.com/watch?v=Hk2Lckvh1B0&t=1260s
 # Lecture 4: 
 Plank MonteCarlo and Android App Awareness. 30 March 2021.
 

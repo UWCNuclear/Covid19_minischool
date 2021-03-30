@@ -31,6 +31,8 @@ Introductory NITheCS Colloquium @ https://www.youtube.com/watch?v=n_6k-LTdVAo&li
 # Lecture 1: 
 Introduction to simple epidemiological models | 9 March 2021.
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7580557/
+
 Video of the Lecture @ https://www.youtube.com/watch?v=qri5IfnX8gQ&t=2298s
 # Lecture 2: 
 Mathematical Modelling of Covid-19 waves | 16 March 2021.

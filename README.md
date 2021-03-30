@@ -24,18 +24,24 @@ Mathematical Modelling of Covid-19 waves | 16 March 2021.
 Video of the Lecture @ https://www.youtube.com/watch?v=h_sb5v7ZSrA&t=4368s
 # Lecture 3: 
 C++/Python applications | 23 March 2021.
+
 https://gitlab.in2p3.fr/dudouet/covid-player
 
 Video of the Lecture @ https://www.youtube.com/watch?v=Hk2Lckvh1B0&t=1260s
 # Lecture 4: 
 Plank MonteCarlo and Android App Awareness | 30 March 2021.
+
 https://www.ugr.es/~amaro/coronavirus/
 
 Time: 14h00 -15h00
 
 # Register in advance for this webinar:
 https://ukzn.zoom.us/webinar/register/WN_FtjNuHTDR0ysn-wpQjDNAw
+
 After registering, you will receive a confirmation email containing information about joining the webinar.
+
+# Feedback survey:
+https://docs.google.com/forms/d/e/1FAIpQLSfWQN0v04qmkWFCma2MHZStiXxOrB2EkctojrRr6seDassEug/viewform
 
 
 

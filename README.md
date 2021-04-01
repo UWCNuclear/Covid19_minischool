@@ -49,7 +49,7 @@ Plank MonteCarlo and Android App Awareness | 30 March 2021.
 
 https://www.ugr.es/~amaro/coronavirus/
 
-Video of the Lecture @
+Video of the Lecture @ https://www.youtube.com/watch?v=zMklyXMsGbY&t=230s
 # Register in advance for this webinar:
 Time: 14h00 - 15h00
 
